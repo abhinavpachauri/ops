@@ -1,6 +1,6 @@
 # Senior Engineer
 
-## Industry
+## Industry Exposure
 
 - Have you read all the major books for your industry? (x100)
 - Have you completed all major blogs for your industry? (x10)
@@ -10,6 +10,11 @@
     - Have you watched all their videos? (all)
     - Do you understand every single word of what they are saying? (all)
 
+### Industry Experts
+
+- Paul Graham
+- John Carmack
+- Joel Spolsky
 
 ## Community
 
