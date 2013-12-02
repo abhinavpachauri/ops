@@ -127,4 +127,19 @@ All these warnings are actually pretty obvious. So kindly be true to yourself an
 - Are you a regular contributor to these communities?
 - How many people have benefitted from your knowledge/expertise?
 - If Stackoverflow, do you have atleast 10,000 reputation points
-- 
+
+## Open Source
+
+- Apache Flex SDK
+- Adobe AIR SDK
+- Adobe FlexPMD
+- Robotlegs
+- RLModules
+- SwiftSuspenders
+- FlexUnit
+- flexunit-with-code-coverage
+- Mockolate
+- Hamcrest
+- Jenkins
+- Sublime Text
+- Git
