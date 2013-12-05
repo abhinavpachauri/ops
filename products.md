@@ -24,11 +24,3 @@
 
 - Pearl's Peril (Wooga)
 - Criminal Case (Pretty Simple)
-
-## Word Game
-
-- Words with Friends
-
-## Pool Game
-
-- 8-Ball Pool
