@@ -14,3 +14,11 @@ The product management is divided into 3 categories:
 - Game Designing
 
 A product manager is expected to develop his skills in all of the above mentioned fields rather than specialize himself in any perticular one.
+
+## PM Hiring Plan
+1. Existing Machine Art
+1. Sounds
+1. Game Economy
+1. Big Feature
+1. Competitive Analysis
+1. Monthly Releases
