@@ -1,6 +1,6 @@
 ## Game Monetization Manager
 
-** Department: Product Management **
+**Department: Product Management**
 
 The Game Monetization Manager contributes to the monetization strategy, coordinates in-game communication and marketing and the post-launch data analysis of a portfolio of games through all distribution channels at a worldwide level. As a member of the monetization team, the Game Monetization Manager reports to the Senior Game Monetization Manager.
 
