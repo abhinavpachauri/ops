@@ -4,30 +4,20 @@
 
 #### Responsibilities
 
-- Support the product owner by managing the agile development process within the team: from initial concept through continuous development post launch of the game.
+- Lead the team in Scrum process - daily standup, sprint planning and review
 
-- Work closely together with producers, artists and developers.
+- Work closely with Product team to maintain Product Backlogs and establish priorities
+
+- Coordinate the different resources of a project (Product, Engineering, Art etc) to deliver products with high quality and on time.
 
 - Single point of contact for customer support team.
 
-- Support testing of weekly releases.
-
-- Provide motivation and contribute to a positive work environment.
-
 #### Desired Skills and Experience
 
-- 2+ years experience as a producer, scrum master or a similar role within the games industry, creating top quality games.
+- 5-7 years of experience managing projects or programs, minimum of 3 years serving successfully in positions of major responsibilities such as Project Manager, Program Manager of Development Manager.
 
-- Ability to choose agile practices best fitting to the team.
+- Strong working knowledge of scrum.
 
-- Ability to communicate clearly, concisely and enthusiastically to both individuals and groups.
+- Strong technical background and understanding of web and mobile development processes.
 
-- Strong attention to detail of the product.
-
-- Good logical and analytical capabilities.
-
-- Well organized under pressure and capable of handling multiple tasks.
-
-- Self-motivation, initiative, curiosity and a great sense of humor.
- 
-- Fluent in spoken and written english.
+- Experience from online products company - a major advantage.
